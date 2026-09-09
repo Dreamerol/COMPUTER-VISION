@@ -175,7 +175,7 @@ Study and implementation of fundamental and modern computer vision techniques, s
 | [`pytorch_tutorials.py`](pytorch_tutorials.py)                 | PyTorch, training, optimization and neural network fundamentals |
 | [`ImageClassifierPyTorch.ipynb`](ImageClassifierPyTorch.ipynb) | Image classification with PyTorch                               |
 | [`object_detection.ipynb`](object_detection.ipynb)             | Object detection                                                |
-| [`callibration.py`](callibration.py)                           | Camera calibration and projection                               |
+| [`callibration.py`](calibration.py)                           | Camera calibration and projection                               |
 | [`advancedArchitectures.py`](advancedArchitectures.py)         | Patch embeddings and advanced vision architectures              |
 | [`NovelView.py`](NovelView.py)                                 | Novel-view vision experiments                                   |
 
