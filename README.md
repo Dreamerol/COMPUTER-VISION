@@ -175,15 +175,23 @@ COMPUTER-VISION/
 
 **Image Processing • Optical Flow • Deep Learning • 3D Vision • PyTorch • Vision Transformers**
 
+
+
 <br>
 <br>
-<br>
+
 
 ---
 
+
 <br><br>
 
+
+
 <h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
+
+
+
 
 <div align="center">
 
@@ -204,7 +212,12 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 </div>
 
+
+
+
 <br><br><br>
+
+
 
 <div align="center">
   <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/" target="_blank">
@@ -216,7 +229,11 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
   </a>
 </div>
 
+
+
 <br><br><br>
+
+
 
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
