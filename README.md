@@ -117,3 +117,80 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+---
+
+
+
+
+# 👁️ COMPUTER VISION
+
+A collection of implementations and experiments exploring **classical and modern computer vision** — from image processing and geometric vision to deep learning and attention-based architectures.
+
+## 🧠 About
+
+Study and implementation of fundamental and modern computer vision techniques, spanning **image processing, Lucas–Kanade optical flow, KNN, CNNs, U-Net, object detection, depth estimation, OpenCV, camera geometry, motion tracking, trajectory prediction, attention-based architectures, and Vision Transformers.**
+
+## 🔍 Focus Areas
+
+* 🖼️ **Image Processing** — convolution, filtering, grayscale conversion, gradients and edge detection
+* 🌀 **Optical Flow & Motion** — Lucas–Kanade optical flow, motion estimation and tracking
+* 🧩 **Image Segmentation** — Union-Find, region merging, color and texture analysis
+* 🧠 **Deep Learning** — CNNs, image classification, object detection, U-Net and depth estimation
+* 📐 **3D Vision & Geometry** — camera calibration, camera intrinsics, 3D reconstruction and projection
+* ✨ **Advanced Architectures** — patch embeddings, attention mechanisms and Vision Transformers
+
+## 🛠️ Implementations
+
+| 📄 File                                                        | 🔬 Focus                                                        |
+| -------------------------------------------------------------- | --------------------------------------------------------------- |
+| [`adaptive_filter.py`](adaptive_filter.py)                     | Adaptive image filtering, gradients and convolution             |
+| [`opticalFlowImplementation.py`](opticalFlowImplementation.py) | Lucas–Kanade optical flow                                       |
+| [`unionFindsimilarSegments.py`](unionFindsimilarSegments.py)   | Image segmentation and region merging                           |
+| [`model_exercise.py`](model_exercise.py)                       | Custom CNN architecture                                         |
+| [`pytorch_tutorials.py`](pytorch_tutorials.py)                 | PyTorch, training, optimization and neural network fundamentals |
+| [`ImageClassifierPyTorch.ipynb`](ImageClassifierPyTorch.ipynb) | Image classification with PyTorch                               |
+| [`object_detection.ipynb`](object_detection.ipynb)             | Object detection                                                |
+| [`callibration.py`](callibration.py)                           | Camera calibration and projection                               |
+| [`advancedArchitectures.py`](advancedArchitectures.py)         | Patch embeddings and advanced vision architectures              |
+| [`NovelView.py`](NovelView.py)                                 | Novel-view vision experiments                                   |
+
+## 🌐 3D Vision
+
+Exploring the connection between **2D images, depth and 3D geometry**, including:
+
+* 📷 Camera intrinsics and calibration
+* 🎯 Perspective projection
+* 🗺️ Depth maps
+* 🧊 3D point reconstruction
+* 🔄 3D transformations
+* 📍 Mapping 3D points back to image coordinates
+* 🧠 U-Net-style depth estimation
+
+## ⚙️ Tech Stack
+
+**Python · NumPy · SciPy · OpenCV · Matplotlib · PyTorch · Pandas**
+
+## 📁 Repository Structure
+
+```text
+COMPUTER-VISION/
+├── ImageClassifierPyTorch.ipynb
+├── NovelView.py
+├── README.md
+├── adaptive_filter.py
+├── advancedArchitectures.py
+├── callibration.py
+├── model_exercise.py
+├── object_detection.ipynb
+├── opticalFlowImplementation.py
+├── pytorch_tutorials.py
+└── unionFindsimilarSegments.py
+```
+
+---
+
+### 👁️ Computer Vision
+
+**Image Processing • Optical Flow • Deep Learning • 3D Vision • PyTorch • Vision Transformers**
+
