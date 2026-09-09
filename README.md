@@ -176,7 +176,9 @@ COMPUTER-VISION/
 └── unionFindsimilarSegments.py
 ```
 
+
 <br>
+
 
 ### 👁️ Computer Vision
 
@@ -185,10 +187,11 @@ COMPUTER-VISION/
 
 
 <br>
-<br>
+
 
 
 ---
+
 
 
 <br><br>
@@ -238,7 +241,10 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
+
 <br><br><br>
+
 
 
 
@@ -282,5 +288,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 </tr>
 </table>
+
+
+
 
 <br><br><br>
