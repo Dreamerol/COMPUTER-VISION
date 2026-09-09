@@ -123,6 +123,12 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+<br>
+<br>
+
+
+
 # 👁️ COMPUTER VISION
 
 A collection of implementations and experiments exploring **classical and modern computer vision** — from image processing and geometric vision to deep learning and attention-based architectures.
