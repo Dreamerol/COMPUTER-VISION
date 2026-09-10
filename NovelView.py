@@ -5,18 +5,7 @@ import cv2 as cv
 import torch.nn as nn
 import torch
 
-from scipy.io import loadmat
 
-path = "/home/users/mms00747/Downloads/Train400Depth/depth_sph_corr-10.21op2-p-046t000.mat"
-
-data = loadmat(path)
-
-depth = data["Position3DGrid"]
-
-print("shape:", depth.shape)
-print("dtype:", depth.dtype)
-print("min:", depth.min())
-print("max:", depth.max())
 
 # FIRST STAGE
 '''
