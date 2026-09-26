@@ -169,6 +169,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <div align="left">
 
 
+<div align="left">
+
 
 
 
@@ -261,6 +263,10 @@ COMPUTER-VISION/
 **Image Processing • Optical Flow • Deep Learning • 3D Vision • PyTorch • Vision Transformers**
 
 
+
+</div>
+
+</div>
 
 
 
