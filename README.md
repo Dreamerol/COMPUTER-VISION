@@ -270,9 +270,6 @@ COMPUTER-VISION/
 
 
 
-<br><br>
-
-
 
 
 ---
