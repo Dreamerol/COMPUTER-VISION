@@ -173,7 +173,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br>
+<br><br>
 
 
 
@@ -284,7 +284,7 @@ COMPUTER-VISION/
 
 
 
-<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
+<h2 align="center">⭐ Explore repos & star what you find interesting</h2>
 
 
 
